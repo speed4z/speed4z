@@ -1,4 +1,5 @@
-[![MasterHead](https://i.ibb.co/JcRbfzZ/wepik-profile-bg.jpg)](https://speed4z.github.io/shardul-website/)
+[![MasterHead](https://i.ibb.co/yV0H2Dd/tech-profile-banner.jpg)](https://speed4z.github.io/shardul-website/)
+
 <h1 align="center">Hi 👋, I'm Shardul Shinde</h1>
 <h3 align="center">A passionate software developer from India with degree Bachelor of Computer Engineer</h3>
 
