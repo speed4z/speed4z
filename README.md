@@ -1,8 +1,8 @@
-[![MasterHead](https://i.ibb.co/JcRbfzZ/wepik-profile-bg.jpg)(https://speed4z.github.io/shardul-website/)]
+[![MasterHead](https://i.ibb.co/JcRbfzZ/wepik-profile-bg.jpg)](https://speed4z.github.io/shardul-website/)
 <h1 align="center">Hi 👋, I'm Shardul Shinde</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate software developer from India with degree Bachelor of Computer Engineer</h3>
 
-<img src="https://i.ibb.co/JcRbfzZ/wepik-profile-bg.jpg" alt="coding" border="0">
+<img align="right" src="https://i.ibb.co/x1Y76yC/shardul-sketch.png" alt="coding" border="0">
 
 <p align="left"> <a href="https://twitter.com/shardul_44" target="blank"><img src="https://img.shields.io/twitter/follow/shardul_44?logo=twitter&style=for-the-badge" alt="shardul_44" /></a> </p>
 
